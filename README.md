@@ -1,6 +1,7 @@
 
 # Evaluación Parcial 2 - Técnicas de Regularización en Deep Learning
-
+EP2_MARK_NC_ipynb.ipynb --------------------- CONTIENE TEXTOS A NIVEL CODIGO
+EP2_DEEP----------------------------- TEXTOS A NIVEL NOTEBOOK.
 ## Descripción
 
 Este proyecto corresponde a la Evaluación Parcial 2 de la asignatura Deep Learning.
